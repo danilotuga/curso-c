@@ -8,7 +8,7 @@ typedef struct lista {
 	struct lista *proximo;
 } lista;
 
-//função do timpo struct que retorna caso o ponteiro da posição desejada seja encontrado.
+//função do tipo struct que retorna caso o ponteiro da posição desejada seja encontrado.
 
 struct lista *procuraValor(struct lista *pLista, int valor) {
 
