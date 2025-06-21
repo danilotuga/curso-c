@@ -120,6 +120,7 @@ int main() {
 		
 		
 		resultado->valor = 320;
+		
 				printf("\n valor de M1 agora e %i", m1.valor);
 				printf("\n valor de M2 agora e %i", m2.valor);
 				printf("\n valor de M3 agora e %i", m3.valor);
